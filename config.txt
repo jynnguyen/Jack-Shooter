@@ -1,0 +1,6 @@
+//TYPE=TEXTUREPATH,SPEED,SCALE
+player=assets/player.png,5,0.5
+
+enemy=assets/jack.jpg,1,0.7
+
+bullet=assets/bullet.png,20,0.1
