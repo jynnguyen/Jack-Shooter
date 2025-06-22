@@ -1,0 +1,3 @@
+D:/.Programming/c++/sfml project/build/CMakeFiles/.main.dir
+D:/.Programming/c++/sfml project/build/CMakeFiles/edit_cache.dir
+D:/.Programming/c++/sfml project/build/CMakeFiles/rebuild_cache.dir

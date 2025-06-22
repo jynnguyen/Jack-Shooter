@@ -1,0 +1,1 @@
+ "C:/SFML_mingw64/SFML-3.0.0/lib/libsfml-graphics.a" "C:/SFML_mingw64/SFML-3.0.0/lib/libsfml-window.a" "C:/SFML_mingw64/SFML-3.0.0/lib/libsfml-audio.a" "C:/SFML_mingw64/SFML-3.0.0/lib/libsfml-network.a" "C:/SFML_mingw64/SFML-3.0.0/lib/libsfml-system.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
